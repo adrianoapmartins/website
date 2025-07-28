@@ -13,7 +13,7 @@ export default function Page() {
         early error detection ensures cleaner code, and my preference for dark
         mode, which eases long coding sessions by reducing eye strain.`}
       </p>
-      <img src="/app/IMG_2204.jpeg" alt="image here"></img>
+      <img src="/IMG_2204.jpeg" alt="image here"></img>
       <div className="my-8">
         <BlogPosts />
       </div>
